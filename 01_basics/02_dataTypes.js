@@ -36,4 +36,5 @@ console.log(typeof temperature2); // typeof undefined
 console.log(typeof undefined); //typeof undefined
 console.log(typeof temperature); // typeof object
 console.log(typeof null); //typeof object
+console.log(typeof (null),(undefined),(isLoggedIn), (name),(age),(33)); // we can write like this for all
 
